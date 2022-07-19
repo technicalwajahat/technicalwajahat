@@ -6,7 +6,6 @@
 <div align="center">
   <a href="https://facebook.com/wajahat.dhaka" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/facebook.png" /></a>
   <a href="https://instagram.com/TechnicalWajahat" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png" /></a>
-  <a href="https://twitter.com/TechWajahat" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/twitter.png" /></a>
   <a href="https://linkedin.com/in/TechnicalWajahat" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" /></a>
   <a href="https://pinterest.com/TechnicalWajahat" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/pinterest.png" /></a>     
   <a href="https://youtube.com/TechnicalWajahat" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/youtube-play.png" /></a>
@@ -22,7 +21,7 @@
 - 🔭 I’m currently working on [ewriter29.com](https://ewriter29.com)
 - 🌱 I’m currently learning Web Development
 - ☕️ Tea and coding goes side by side for me
-- ⚙️ I code in Java
+- ⚙️ I code in Java/Kotlin/C++/C#
 - 💬 Know about me at [@ewriter29](https://www.ewriter29.com/trending/muhammad-wajahat-asif-wiki/)
 - 📫 Reach via [@technicalwajahat](https://m.me/TechnicalWajahat)
 - 😄 Pronouns: He/Him
