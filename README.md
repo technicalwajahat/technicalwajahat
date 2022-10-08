@@ -92,5 +92,5 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=technicalwajahat&color=green" />
+  <img src="https://komarev.com/ghpvc/?username=technicalwajahat&color=orange&style=flat&label=Profile+Views" />
 </div>
