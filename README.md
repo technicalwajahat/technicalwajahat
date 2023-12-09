@@ -18,10 +18,10 @@
   <p>I'm hails from Pakistan’s culturally rich Soon Valley ⛰, Tehsil Naushehra, District Khushab. Currently, I'm pursuing Software Engineering 👩‍💻 Degree at <a href="https://attock.comsats.edu.pk/">CUI, Attock Campus</a> 🏫, and in collaboration with friends 👨‍👦‍👦, runs small communities 🏢 <a href="https://technicalwajahat.com/">Technical Wajahat</a> and <a href="https://facebook.com/OriginalB4B">B 4 Bachelors</a>.</p>
 </div>  
 
-- 🔭 I’m currently working on Flutter Development
+- 🔭 I’m currently working on Flutter & Laravel Development
 - 🌱 I’m currently learning Full Stack Development
-- ☕️ Tea and coding goes side by side for me
-- ⚙️ I code in Java/Kotlin/C++/C#/Dart
+- ☕️ Tea, Coffee and coding goes side by side for me
+- ⚙️ I code in Java/Kotlin/C++/C#/Dart/PHP
 - 💬 Know about me at [@technicalwajahat](https://www.technicalwajahat.com)
 - 📫 Reach via [@technicalwajahat](https://m.me/TechnicalWajahat)
 - 😄 Pronouns: He/Him
