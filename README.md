@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on Flutter & Laravel Development
 - 🌱 I’m currently learning Full Stack Development
 - ☕️ Tea, Coffee and coding goes side by side for me
-- ⚙️ I code in Java/C++/C#/Dart/PHP/Python
+- ⚙️ I code in Java/C++/C#/Dart/PHP/Python/HTML/CSS/JavaSctipt
 - 💬 Know about me at [@technicalwajahat](https://instagram.com/technicalwajahat)
 - 📫 Reach via [@technicalwajahat](https://m.me/TechnicalWajahat)
 - 😄 Pronouns: He/Him/His
@@ -77,10 +77,6 @@
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&amp;logo=microsoft-powerpoint&amp;logoColor=white" alt="Microsoft PowerPoint">
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&amp;logo=microsoft-office&amp;logoColor=white" alt="Microsoft Office">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=white" alt="Microsoft Excel">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&amp;logo=Matplotlib&amp;logoColor=black" alt="Matplotlib">
 </div>
 
 <br>
