@@ -26,7 +26,7 @@
 - 📫 Reach via [@technicalwajahat](https://m.me/TechnicalWajahat)
 - 😄 Pronouns: He/Him/His
 
-<h3>Languages, Tools & Technologies:</h3>
+<h3>Languages, Tools & Technologies</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas">
@@ -92,5 +92,5 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=technicalwajahat&color=orange&style=flat&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=technicalwajahat&color=brightgreen&style=plastic&label=Profile+Views" />
 </div>
