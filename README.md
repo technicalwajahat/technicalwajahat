@@ -21,10 +21,10 @@
 - 🔭 I’m currently working on Flutter & Laravel Development
 - 🌱 I’m currently learning Full Stack Development
 - ☕️ Tea, Coffee and coding goes side by side for me
-- ⚙️ I code in Java/Kotlin/C++/C#/Dart/PHP
+- ⚙️ I code in Java/C++/C#/Dart/PHP/Python
 - 💬 Know about me at [@technicalwajahat](https://instagram.com/technicalwajahat)
 - 📫 Reach via [@technicalwajahat](https://m.me/TechnicalWajahat)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 
 <h3>Languages, Tools & Technologies:</h3>
 <div align="center">
