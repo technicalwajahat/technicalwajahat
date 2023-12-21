@@ -10,14 +10,13 @@
   <a href="https://pinterest.com/TechnicalWajahat" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/pinterest.png" /></a>     
   <a href="https://youtube.com/@TechnicalWajahat" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/youtube-play.png" /></a>
   <a href="https://github.com/TechnicalWajahat" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/github.png" /></a>
-  <a href="https://snapchat.com/wajahataasef" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/snapchat.png" /></a>
 </div>
 
 <div>
-  <h3>About Me:</h3> 
+  <h3>About Me</h3> 
   <p>Hi, I'm <a href="https://www.ewriter29.com/trending/muhammad-wajahat-asif">Muhammad Wajahat Asif</a> aka Technical Wajahat is a passionate Computer Consultant 💻, Software Engineer 👨‍💻, Video Creator 🎥, Graphic Designer 🎨, WordPress Savvy 👨‍🔬, YouTube Mentor 🧒, and Digital Marketer 🔎, and I'm in this industry since 2015.</p>
-  <p>I'm hails from Pakistan’s culturally rich Soon Valley ⛰, Tehsil Naushehra, District Khushab. Currently, I'm pursuing Software Engineering 👩‍💻 Degree at <a href="https://attock.comsats.edu.pk/">CUI, Attock Campus</a> 🏫, and in collaboration with friends 👨‍👦‍👦, runs small communities 🏢 <a href="https://technicalwajahat.com/">Technical Wajahat</a> and <a href="https://facebook.com/OriginalB4B">B 4 Bachelors</a>.</p>
-</div>  
+<p>I hail from Pakistan’s culturally rich Soon Valley ⛰, Tehsil Naushehra, District Khushab. I am a Software Engineering 👩‍💻 graduate from <a href="https://attock.comsats.edu.pk/">CUI, Attock Campus</a> 🏫. Currently, I am employed as a Software Engineer at <a href="https://www.axixtechnologies.com/">Axix Technologies</a> 🌐. In addition to my professional endeavors, I am actively involved in running small communities 🏢 with friends 👨‍👦‍👦, including <a href="https://facebook.com/TechnicalWajahat">Technical Wajahat</a> and <a href="https://facebook.com/OriginalB4B">B 4 Bachelors</a>.</p>
+</div>
 
 - 🔭 I’m currently working on Flutter & Laravel Development
 - 🌱 I’m currently learning Full Stack Development
