@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning Full Stack Development
 - ☕️ Tea, Coffee and coding goes side by side for me
 - ⚙️ I code in Java/Kotlin/C++/C#/Dart/PHP
-- 💬 Know about me at [@technicalwajahat](https://www.technicalwajahat.com)
+- 💬 Know about me at [@technicalwajahat](https://instagram.com/technicalwajahat)
 - 📫 Reach via [@technicalwajahat](https://m.me/TechnicalWajahat)
 - 😄 Pronouns: He/Him
 
