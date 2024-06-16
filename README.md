@@ -15,7 +15,7 @@
 <div>
   <h3>About Me</h3> 
   <p>Hi, I'm <a href="https://www.ewriter29.com/trending/muhammad-wajahat-asif">Muhammad Wajahat Asif</a> aka Technical Wajahat is a passionate Computer Consultant 💻, Software Engineer 👨‍💻, and Video Creator 🎥 and I'm in this industry since 2015.</p>
-<p>I hail from Pakistan’s culturally rich Soon Valley ⛰, Tehsil Naushehra, District Khushab. I am a Software Engineering 👩‍💻 graduate from CUI, Attock Campus</a> 🏫. Currently, I am employed as a Software Engineer at <a href="https://www.axixtechnologies.com/">Axix Technologies</a> 🌐.
+<p>I hail from Pakistan’s culturally rich Soon Valley ⛰, Tehsil Naushehra, District Khushab. I am a Software Engineering 👩‍💻 graduate from CUI, Attock Campus</a> 🏫. Currently, I am employed as a Software Engineer at <a href="https://www.smartfinancepk.com/">Smart Finance Limited</a> 🌐.
 </div>
 
 - 🔭 I’m currently working on Flutter Developer
