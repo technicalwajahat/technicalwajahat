@@ -65,7 +65,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=technicalwajahat&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=technicalwajahat&theme=dark" />
 </div>
 
 <br>
