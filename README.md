@@ -65,7 +65,7 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=technicalwajahat&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=technicalwajahat&theme=highcontrast" />
 </div>
 
 <br>
