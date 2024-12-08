@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi Folks 👋, I'm Muhammad Wajahat Asif</h1>
-  <h3>👨‍💻 Computer Engineer 👨‍💻</h3> 
+  <h3>👨‍💻 Software Engineer 👨‍💻</h3> 
 </div>
 
 <div align="center">
